@@ -1,1 +1,1 @@
-Simpleapp in goland
+Simplea pp in goland
